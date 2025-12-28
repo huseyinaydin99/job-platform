@@ -1,3 +1,23 @@
+#### Görseller:
+
+<img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/04c950e2-2190-46bb-b5d6-c13e3ce430ad" />
+<img width="1919" height="1079" alt="Screenshot_2" src="https://github.com/user-attachments/assets/2a201b0a-b908-4797-87aa-2ea6b50d4043" />
+<img width="1919" height="1079" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b62c55d0-c704-4d4d-86ce-5c21d8b21da4" />
+<img width="1919" height="1079" alt="Screenshot_4" src="https://github.com/user-attachments/assets/07cfa004-f9ea-47bc-b5d1-484b7371928b" />
+<img width="1919" height="1079" alt="Screenshot_5" src="https://github.com/user-attachments/assets/35636448-ac4c-47fc-bdeb-e254ba974134" />
+<img width="1919" height="1079" alt="Screenshot_6" src="https://github.com/user-attachments/assets/9a5ab743-2dc9-4b17-ba8b-7e1e1f59b59b" />
+<img width="1919" height="1079" alt="Screenshot_7" src="https://github.com/user-attachments/assets/8f67a53e-f369-47de-9111-f9197b7af5fd" />
+<img width="1919" height="1079" alt="Screenshot_8" src="https://github.com/user-attachments/assets/16db4cb7-1ea1-4f2f-8279-561940717c19" />
+<img width="1919" height="1079" alt="Screenshot_9" src="https://github.com/user-attachments/assets/0d89eef2-ebed-435c-a729-8d7c8a619d1c" />
+<img width="1919" height="1079" alt="Screenshot_10" src="https://github.com/user-attachments/assets/9d7ab5aa-f7f2-456d-aff2-9107e6bb0983" />
+<img width="1919" height="1079" alt="Screenshot_11" src="https://github.com/user-attachments/assets/6e671090-3bfa-4452-be47-1f54b48339db" />
+<img width="1919" height="1079" alt="Screenshot_12" src="https://github.com/user-attachments/assets/dbd9ef0a-ad38-4a3a-b15e-e8e51587e778" />
+<img width="1919" height="1079" alt="Screenshot_13" src="https://github.com/user-attachments/assets/8beda9cb-5399-4f0e-9f69-ad6685888e90" />
+<img width="1919" height="1079" alt="Screenshot_14" src="https://github.com/user-attachments/assets/619a9492-ba19-4c55-9c25-eb42c4e76d24" />
+<img width="1919" height="1079" alt="Screenshot_15" src="https://github.com/user-attachments/assets/351c94a9-6405-4266-86c3-a6f3458d18a4" />
+<img width="1919" height="1079" alt="Screenshot_16" src="https://github.com/user-attachments/assets/d5ab1ac2-5d9a-4043-8901-03083201484e" />
+<img width="1919" height="448" alt="Screenshot_17" src="https://github.com/user-attachments/assets/38b7f224-24e8-4abb-ab07-f1d102b3b8d6" />
+
 ### Niğde | Aydın İş Kapısı 🏢✨
 
 > “İş arayan ile işverenin aynı masaya oturduğu, kafa karıştırmayan, hızlı ve güvenli bir başvuru akışı.”
@@ -187,25 +207,3 @@ Elasticsearch’i gerçekten devreye alıp şehir önerisini ve aramayı “scal
 Başvuru durumlarını (APPLIED → REVIEWED → REJECTED/ACCEPTED) gibi bir state makinesine çevirip employer panelinde yönetilebilir hale getiririm; çünkü gerçek hayatta asıl değer “başvuruyu aldım” değil, “başvuruyu yönettim” kısmında. 📌  
 Dosya depolamayı local disk yerine S3 benzeri bir çözüme taşırım; ama yine CvStorage gibi bir sınır bırakırım ki altyapı değişse de application/presentation tarafı sarsılmasın. ☁️  
 UI tarafında küçük erişilebilirlik dokunuşları (kontrast, odak halkası, klavye navigasyonu) eklerim; çünkü hızlı sistem kadar “rahat kullanılan” sistem de önemlidir.
-
-
-#### Görseller:
-
-<img width="1919" height="448" alt="Screenshot_17" src="https://github.com/user-attachments/assets/38b7f224-24e8-4abb-ab07-f1d102b3b8d6" />
-<img width="1919" height="1079" alt="Screenshot_16" src="https://github.com/user-attachments/assets/d5ab1ac2-5d9a-4043-8901-03083201484e" />
-<img width="1919" height="1079" alt="Screenshot_15" src="https://github.com/user-attachments/assets/351c94a9-6405-4266-86c3-a6f3458d18a4" />
-<img width="1919" height="1079" alt="Screenshot_14" src="https://github.com/user-attachments/assets/619a9492-ba19-4c55-9c25-eb42c4e76d24" />
-<img width="1919" height="1079" alt="Screenshot_13" src="https://github.com/user-attachments/assets/8beda9cb-5399-4f0e-9f69-ad6685888e90" />
-<img width="1919" height="1079" alt="Screenshot_12" src="https://github.com/user-attachments/assets/dbd9ef0a-ad38-4a3a-b15e-e8e51587e778" />
-<img width="1919" height="1079" alt="Screenshot_11" src="https://github.com/user-attachments/assets/6e671090-3bfa-4452-be47-1f54b48339db" />
-<img width="1919" height="1079" alt="Screenshot_10" src="https://github.com/user-attachments/assets/9d7ab5aa-f7f2-456d-aff2-9107e6bb0983" />
-<img width="1919" height="1079" alt="Screenshot_9" src="https://github.com/user-attachments/assets/0d89eef2-ebed-435c-a729-8d7c8a619d1c" />
-<img width="1919" height="1079" alt="Screenshot_8" src="https://github.com/user-attachments/assets/16db4cb7-1ea1-4f2f-8279-561940717c19" />
-<img width="1919" height="1079" alt="Screenshot_7" src="https://github.com/user-attachments/assets/8f67a53e-f369-47de-9111-f9197b7af5fd" />
-<img width="1919" height="1079" alt="Screenshot_6" src="https://github.com/user-attachments/assets/9a5ab743-2dc9-4b17-ba8b-7e1e1f59b59b" />
-<img width="1919" height="1079" alt="Screenshot_5" src="https://github.com/user-attachments/assets/35636448-ac4c-47fc-bdeb-e254ba974134" />
-<img width="1919" height="1079" alt="Screenshot_4" src="https://github.com/user-attachments/assets/07cfa004-f9ea-47bc-b5d1-484b7371928b" />
-<img width="1919" height="1079" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b62c55d0-c704-4d4d-86ce-5c21d8b21da4" />
-<img width="1919" height="1079" alt="Screenshot_2" src="https://github.com/user-attachments/assets/2a201b0a-b908-4797-87aa-2ea6b50d4043" />
-<img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/04c950e2-2190-46bb-b5d6-c13e3ce430ad" />
-
